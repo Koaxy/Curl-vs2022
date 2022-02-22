@@ -1,1 +1,1 @@
-# Curl-vs2022
+# Curl-vs2022 (x64 Arcitecture)
