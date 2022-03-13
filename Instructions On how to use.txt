@@ -1,0 +1,4 @@
+I am very lazy, and i cannot be arsed making a video, 
+
+But essentially add the files to a visual studio project, and then add "libcurl_a.lib" to you're linker input settings and then go to project properties and add CURL_STATICLIB to you're pre-processor defines.
+
